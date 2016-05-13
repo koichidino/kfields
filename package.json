@@ -1,0 +1,22 @@
+{
+  "name": "kfields",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koichidino/kfields.git"
+  },
+  "author": "Kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koichidino/kfields/issues"
+  },
+  "homepage": "https://github.com/koichidino/kfields#readme"
+}
